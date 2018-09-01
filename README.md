@@ -1,5 +1,5 @@
 # micro-rtos
-Design a tiny rtos kernel for micro-controller with limited hardware resources
+Design a rtos micro-kernel for micro-controller with limited hardware resources or IOT device.
 
 Let's get started!
 
